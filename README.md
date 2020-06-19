@@ -1,2 +1,2 @@
 # morstead-faster
-Morstead storage with RAFT based on Microsoft Faster
+Morstead storage based on Microsoft Faster
